@@ -9,7 +9,7 @@ Statische Website von KIventaro (Instagram-Chatbots für Friseursalons). HTML, C
 - 404.html: Fehlerseite
 - assets/css/style.css, assets/js/main.js: Gestaltung, gestellte Chat-Demo, Loom nach Klick
 - assets/fonts: Poppins und Inter lokal (SIL Open Font License, Lizenztexte liegen bei)
-- assets/img: Favicon, Vorschaubild für Links (og-image.png), Icon für Mobilgeräte
+- assets/img: Logo (logo-kiventaro.png transparent, logo-512.png, logo-mark.png), Favicon, Vorschaubild für Links (og-image.png), Icon für Mobilgeräte
 - robots.txt, sitemap.xml, llms.txt: Suchmaschinen und KI-Crawler
 - CNAME: eigene Domain kiventaro.de
 - .nojekyll: GitHub Pages liefert die Dateien unverändert aus
@@ -18,14 +18,12 @@ Die Seite lädt beim Aufruf keine externen Ressourcen und setzt keine Cookies. D
 
 ## Offene Stellen vor der Veröffentlichung
 
-1. Telefonnummer im Impressum (impressum.html, "[Telefonnummer folgt]")
-2. Umsatzsteuer: Variante A (USt-ID) oder Variante B (Kleinunternehmer) im Impressum, die andere löschen
-3. Loom-Link: in index.html bei id="video-box" im Attribut data-src eintragen, Format https://www.loom.com/embed/VIDEO-ID (aus dem Teilen-Link loom.com/share/VIDEO-ID wird loom.com/embed/VIDEO-ID)
-4. Darstellung von Linda im Kontaktbereich (index.html), Entscheidung durch Tim
-5. Logo: aktuell ein Platzhalter-Zeichen. Echtes Logo als PNG oder SVG nach assets/img, dann Favicon und og-image.png ersetzen
-6. Datenschutz: E-Mail-Anbieter des Postfachs linda@kiventaro.de eintragen, Grundlage der US-Übermittlung für GitHub und Loom prüfen, Datum eintragen
-7. Impressum und Datenschutz mit einem kostenlosen Generator abgleichen (zum Beispiel eRecht24 oder Datenschutz-Generator, Nutzungsbedingungen vorher lesen) und rechtlich prüfen lassen
-8. Gewerbeanmeldung in Offenburg abwarten, erst danach veröffentlichen
+Erledigt am 20. November 2026: Logo, Loom-Link, Kleinunternehmer (keine USt-Angabe im Impressum), keine Telefonnummer (Kontakt per E-Mail und Instagram-Direktnachricht), Satz zu Linda, E-Mail-Anbieter Google Workspace.
+
+1. Datenschutz: Grundlage der US-Übermittlung für GitHub, Google und Loom prüfen, Auftragsverarbeitungsvertrag in Google Workspace annehmen, Datum eintragen
+2. Impressum ohne Telefonnummer: prüfen lassen, ob E-Mail und Instagram-Direktnachricht als schneller Kontaktweg genügen
+3. Impressum und Datenschutz mit einem kostenlosen Generator abgleichen (zum Beispiel eRecht24 oder Datenschutz-Generator) und rechtlich prüfen lassen
+4. Gewerbeanmeldung in Offenburg abwarten, erst danach veröffentlichen
 
 ## Veröffentlichung über GitHub Pages
 

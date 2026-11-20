@@ -18,9 +18,9 @@ Die Seite lädt beim Aufruf keine externen Ressourcen und setzt keine Cookies. D
 
 ## Offene Stellen vor der Veröffentlichung
 
-Erledigt am 20. November 2026: Logo, Loom-Link, Kleinunternehmer (keine USt-Angabe im Impressum), keine Telefonnummer (Kontakt per E-Mail und Instagram-Direktnachricht), Satz zu Linda, E-Mail-Anbieter Google Workspace.
+Erledigt am 20. November 2026: Logo, Loom-Link, Kleinunternehmer (keine USt-Angabe im Impressum), keine Telefonnummer (Kontakt per E-Mail und Instagram-Direktnachricht), Satz zu Linda, E-Mail-Anbieter Google Workspace, Zusatz zur Verarbeitung von Cloud-Daten (Auftragsverarbeitung) am 20. November 2026 angenommen.
 
-1. Datenschutz: Grundlage der US-Übermittlung für GitHub, Google und Loom prüfen, Auftragsverarbeitungsvertrag in Google Workspace annehmen, Datum eintragen
+1. Datenschutz: Grundlage der US-Übermittlung für GitHub, Google und Loom prüfen, Datum eintragen
 2. Impressum ohne Telefonnummer: prüfen lassen, ob E-Mail und Instagram-Direktnachricht als schneller Kontaktweg genügen
 3. Impressum und Datenschutz mit einem kostenlosen Generator abgleichen (zum Beispiel eRecht24 oder Datenschutz-Generator) und rechtlich prüfen lassen
 4. Gewerbeanmeldung in Offenburg abwarten, erst danach veröffentlichen

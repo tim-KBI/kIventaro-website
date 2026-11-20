@@ -1,0 +1,17 @@
+# KIventaro
+
+> KIventaro richtet Instagram-Chatbots für Friseursalons in Deutschland ein und betreut sie danach weiter. Inhaber ist Tim Pauli, Einzelunternehmen mit Sitz in Offenburg.
+
+## Leistung
+
+- Der Chatbot antwortet in den Instagram-Direktnachrichten eines Friseursalons.
+- Er zeigt Preise und Leistungen des Salons, fragt nach Behandlung und Haarlänge und bietet einen Beratungstermin oder einen Anruf vom Team an.
+- Fragen, die nicht in die Auswahl passen, gibt er an das Team des Salons weiter.
+- Hat der Salon schon eine Online-Terminbuchung, kann der Chatbot dorthin führen.
+- Der Preis ist individuell und richtet sich nach Salongröße und Zahl der Instagram-Anfragen. Das Angebot folgt nach einem Erstgespräch von etwa 15 Minuten. Abrechnung als Abonnement über Stripe.
+
+## Kontakt
+
+- Website: https://kiventaro.de/
+- Instagram: https://www.instagram.com/kiventaro/
+- E-Mail: linda@kiventaro.de

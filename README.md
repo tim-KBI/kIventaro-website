@@ -23,7 +23,9 @@ Erledigt am 20. November 2026: Logo, Loom-Link, Kleinunternehmer (keine USt-Anga
 1. Datenschutz: Grundlage der US-Übermittlung für GitHub, Google und Loom prüfen, Datum eintragen
 2. Impressum ohne Telefonnummer: prüfen lassen, ob E-Mail und Instagram-Direktnachricht als schneller Kontaktweg genügen
 3. Impressum und Datenschutz mit einem kostenlosen Generator abgleichen (zum Beispiel eRecht24 oder Datenschutz-Generator) und rechtlich prüfen lassen
-4. Gewerbeanmeldung in Offenburg abwarten, erst danach veröffentlichen
+4. Wirtschafts-Identifikationsnummer ins Impressum eintragen, sobald zugeteilt (kommt nach der Gewerbeanmeldung automatisch vom BZSt)
+5. Zweiter schneller Kontaktweg neben E-Mail festlegen (Telefon, Kontaktformular)
+6. Gewerbeanmeldung in Offenburg abwarten, erst danach veröffentlichen
 
 ## Veröffentlichung über GitHub Pages
 
